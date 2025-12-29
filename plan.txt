@@ -5,16 +5,21 @@ Time-aware: TimeLM or DiachronicBERT
 
 For formal MiniLM:
 
+We have the final formal datasets.
 
-for word in target_words:
-    sentences = get_sentences_containing(word)
+Pseudocode:
+
+for every csv:
     for sent in sentences:
         inputs = tokenizer(sent)
         outputs = model(**inputs)
         token_embedding = extract_token_embedding(outputs, word)
         store(word, event, phase, register, token_embedding)
-
         save() #to local machine or google drive or GitHub
+#we can save ek csv ka sab saath me
+
+
+A function can be written, and all 12 CSVs can be given to it one by one
 
 
 Then compute baseline metrics: 
