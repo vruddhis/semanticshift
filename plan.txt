@@ -1,0 +1,53 @@
+
+Time-aware: TimeLM or DiachronicBERT
+
+
+
+For formal MiniLM:
+
+
+for word in target_words:
+    sentences = get_sentences_containing(word)
+    for sent in sentences:
+        inputs = tokenizer(sent)
+        outputs = model(**inputs)
+        token_embedding = extract_token_embedding(outputs, word)
+        store(word, event, phase, register, token_embedding)
+
+        save() #to local machine or google drive or GitHub
+
+
+Then compute baseline metrics: 
+1. Form-based 
+
+
+μ_before = mean(E_before)
+μ_during = mean(E_during)
+μ_after  = mean(E_after)
+
+
+Cosine
+short-term = cos(μ_before, μ_during)
+
+long-term = cos(μ_before, μ_after)
+
+
+
+2. Pairwise 
+
+
+APD
+
+short = mean_{e∈before, f∈during} d(e,f)
+
+long = mean_{e∈before, f∈after} d(e,f)
+
+PRT
+
+3. Distributional 
+
+P_before(w) = distribution of embeddings
+P_during(w)
+P_after(w)
+
+Then we can compute
