@@ -9,12 +9,14 @@ bubble,covid-19
 remote,covid-19
 variant,covid-19
 karen,covid-19
-grind,e-gaming
-chat,e-gaming
 streamer,e-gaming
-stream ,e-gaming
-rank,e-gaming
-farm,e-gaming
+grind,e-gaming-early
+rank,e-gaming-rank
+chat,e-gaming-recent
+farm,e-gaming-recent
+buff,e-gaming-recent
+nerf,e-gaming-recent
+stream ,e-gaming-stream
 stan,eminem
 sigma,fanfic
 canon,fanfic
@@ -24,8 +26,6 @@ omega,fanfic
 gaslight,gaslight-movie
 pappu,indian-election
 cancel,me-too
-trigger,mental-health-awareness
-episode,mental-health-awareness
 token,nft
 drop,nft
 tea,rupaul
@@ -42,15 +42,13 @@ clanker,star-wars
 binge,streaming
 stream,streaming
 spoiler,streaming
-unalive,tiktok
-demure,tiktok
-redflag,tinder
-toxic,tinder
-ghost,tinder
+unalive,tiktok-blow
+demure,tiktok-demure
+red flag,tiktok-rf
+ghost,tinder-ghost
 tweet,twt
 ratio,twt
-x,twt
-propaganda,wwi
+x,twt-rename
 aura,
 slay,
 lock in,

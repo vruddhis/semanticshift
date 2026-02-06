@@ -1,23 +1,29 @@
 Event_ID,Event_name,Event_desc,Type,Start_date,End_date
-covid-19,covid Pandemic,,Continuous,30.1.20,31.12.21
-chatgpt-launch,ChatGPT launch,,Instanteneous,30.11.22,
-streaming,Netflix/other streaming services blowing up,,Continuous,1.1.13,31.12.19
-nft,NFT hype,,Continuous,1.1.21,30.4.22
-social-media,Twitter blowing up/other social media,,Continuous,1.1.10,31.12.14
-among-us,,,,,
-brat-album,,,,,
-catfish-show,,,,,
+among-us,,,,1.6.2020,
+brat-album,,,,7.6.2024,1.11.2024
+catfish-show,,,,12.11.2012,16.7.2024
+chatgpt-launch,ChatGPT launch,,Instanteneous,30.11.2022,
+covid-19,covid Pandemic,,Continuous,30.1.2020,31.12.2021
 e-gaming,,,,,
-eminem,,,,,
-gaslight-movie,,,,,
-indian-election,,,,,
-me-too,,,,,
+e-gaming-early,,,,1.11.2004,
+e-gaming-rank,,,,1.7.2010,
+e-gaming-recent,,,,1.1.2020,
+e-gaming-stream,,,,1.6.2011,
+eminem,,,,23.5.2000,
+fanfic,,,,1.6.2011,
+gaslight-movie,,,,4.5.1944,
+indian-election,,,,19.4.2024,1.6.2024
+me-too,,,,1.10.2024,
 mental-health-awareness,,,,,
-rupaul,,,,,
-ship-suez,,,,,
-star-wars,,,,,
-tiktok,,,,,
-tinder,,,,,
-twt,,,,,
-wwi,,,,,
-fanfic,,,,,
+nft,NFT hype,,Continuous,1.1.2021,30.4.2022
+rupaul,,,,2.2.2009,
+ship-suez,,,,23.3.2021,29.3.2021
+social-media,Twitter blowing up/other social media,,Continuous,1.1.2010,31.12.2014
+star-wars,,,,1.6.2025,
+streaming,Netflix/other streaming services blowing up,,Continuous,1.1.2013,31.12.2019
+tiktok-blow,,,,1.3.2020,
+tiktok-demure,,,,1.8.2024,
+tiktok-rf,,,,1.1.2021,
+tinder-ghost,,,,1.1.2013,
+twt,,,,12.3.2007,
+twt-rename,,,,23.7.2023,
