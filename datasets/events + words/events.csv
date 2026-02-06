@@ -1,0 +1,23 @@
+Event_ID,Event_name,Event_desc,Type,Start_date,End_date
+covid-19,covid Pandemic,,Continuous,30.1.20,31.12.21
+chatgpt-launch,ChatGPT launch,,Instanteneous,30.11.22,
+streaming,Netflix/other streaming services blowing up,,Continuous,1.1.13,31.12.19
+nft,NFT hype,,Continuous,1.1.21,30.4.22
+social-media,Twitter blowing up/other social media,,Continuous,1.1.10,31.12.14
+among-us,,,,,
+brat-album,,,,,
+catfish-show,,,,,
+e-gaming,,,,,
+eminem,,,,,
+gaslight-movie,,,,,
+indian-election,,,,,
+me-too,,,,,
+mental-health-awareness,,,,,
+rupaul,,,,,
+ship-suez,,,,,
+star-wars,,,,,
+tiktok,,,,,
+tinder,,,,,
+twt,,,,,
+wwi,,,,,
+fanfic,,,,,
